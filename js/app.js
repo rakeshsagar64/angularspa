@@ -6,6 +6,8 @@ app.config(function($routeProvider){
         templateUrl:"template/page2.html"
     }).when("/page3",{
         templateUrl:"template/page3.html"
+    }).when("/page4",{
+        templateUrl:"template/page4.html"
     });
 })
 
